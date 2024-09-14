@@ -1,0 +1,6 @@
+@coreWebAPIVendorProject_HostAddress = http://localhost:5119
+
+GET {{coreWebAPIVendorProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
